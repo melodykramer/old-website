@@ -14,7 +14,7 @@ contact: passive
 <br>
 <br>
 
-I frequently works on side projects or short-term engagements within the public media, podcasting, and civic technology space. Things I do:
+I frequently work on side projects or short-term engagements within the public media, podcasting, and civic technology space. Things I do:
 
 - develop or improve audience engagement or existing social media strategies
 - make content consistent, structured, and easier to understand.
