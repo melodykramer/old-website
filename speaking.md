@@ -21,6 +21,10 @@ I love giving talks about working in public, building stronger connections with 
 
 I also routinely speak at conferences and on panels about various topics in journalism and civic technology. Below are recent talks I've given, along with videos and transcripts, when they're available. If you'd like to have me speak or run a workshop, please [contact me](mailto:melodykramer@gmail.com).
 
+<br>
+<br>
+<br>
+
 
 Building in the Open with 18F. Digital Services Team, State of North Carolina. December 2015.
 
