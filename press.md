@@ -15,7 +15,7 @@ contact: passive
 <br>
 <br>
 
-My work has featured by The New York Times, iTunes, Nieman's Journalism Lab, Mashable, Poynter, the Shorty Awards, Knight-Mozilla Open News, USA Today, GigaOm, and the Village Voice Web Awards. Ideas from my newsletter have circulated through newspapers in Alabama to advertising firms to the Stanford School of Medicine.
+My work has been featured by The New York Times, iTunes, Nieman's Journalism Lab, Mashable, Poynter, the Shorty Awards, Knight-Mozilla Open News, USA Today, GigaOm, and the Village Voice Web Awards. Ideas from my newsletter have circulated through newspapers in Alabama to advertising firms to the Stanford School of Medicine.
 
 ### Selected Press
 
@@ -51,21 +51,21 @@ My work has featured by The New York Times, iTunes, Nieman's Journalism Lab, Mas
 
 [10 women paving the way in digital media and technology](https://www.journalism.co.uk/news/10-women-paving-the-way-in-digital-journalism-and-technology/s2/a564369/) Journalism.co.uk. March 2015.
 
-[Melody Kramer's open source life][http://nerdettepodcast.com/post/110652298367/melody-kramers-open-source-life-singing-civil]. Nerdette Podcast. February 2015.
+[Melody Kramer's open source life](http://nerdettepodcast.com/post/110652298367/melody-kramers-open-source-life-singing-civil). Nerdette Podcast. February 2015.
 
 [How can archives add value for newspapers and TV?](https://stevebuttry.wordpress.com/2015/02/20/how-can-archives-add-value-for-newspapers-and-tv/) Steve Buttry. February 2015.
 
-[The Homepage is Alive &#8212; or at a Minimum, here are 64 Ideas For What It Could Become][http://www.niemanlab.org/2015/02/the-homepage-is-alive-or-at-a-minimum-here-are-64-ideas-for-what-it-could-become/]. Nieman Journalism Lab. February 2015.
+[The Homepage is Alive &#8212; or at a Minimum, here are 64 Ideas For What It Could Become](http://www.niemanlab.org/2015/02/the-homepage-is-alive-or-at-a-minimum-here-are-64-ideas-for-what-it-could-become/). Nieman Journalism Lab. February 2015.
 
-[Forget Everything You Thought You Knew About the Homepage][https://gigaom.com/2015/02/09/forget-everything-you-thought-you-knew-about-the-homepage/]. GigaOm. February 2015.
+[Forget Everything You Thought You Knew About the Homepage](https://gigaom.com/2015/02/09/forget-everything-you-thought-you-knew-about-the-homepage/). GigaOm. February 2015.
 
-[Newsrooms Grapple with How To Avoid Twitter Bloopers][http://ajr.org/2015/01/08/newsrooms-grapple-avoid-twitter-bloopers/]. American Journalism Review. January 2015.
+[Newsrooms Grapple with How To Avoid Twitter Bloopers](http://ajr.org/2015/01/08/newsrooms-grapple-avoid-twitter-bloopers/). American Journalism Review. January 2015.
 
-[Jay Talks to Melody Kramer, NPR's Social Media Strategist][https://nyustudio20.wordpress.com/2014/12/04/jay-talks-to-melody-kramer-nprs-social-media-strategist/]. Jay Rosen. Studio15. December 2014.
+[Jay Talks to Melody Kramer, NPR's Social Media Strategist](https://nyustudio20.wordpress.com/2014/12/04/jay-talks-to-melody-kramer-nprs-social-media-strategist/). Jay Rosen. Studio15. December 2014.
 
 [More Listening, More Collaborating](http://www.niemanlab.org/2014/12/more-listening-more-collaborating/) Nieman Lab. December 2014.
 
-[Ten with Melody Joy Kramer][http://www.spj.org/quill_issue.asp?REF=2150]. Society of Professional Journalists. December 2014.
+[Ten with Melody Joy Kramer](http://www.spj.org/quill_issue.asp?REF=2150). Society of Professional Journalists. December 2014.
 
 [Yes, Your Media Outlet Can Learn Something From The Kardashians](https://gigaom.com/2014/11/21/yes-your-media-outlet-can-learn-something-from-the-kardashians/). Matthew Ingram. GigaOm. November 2014.
 
@@ -94,7 +94,7 @@ My work has featured by The New York Times, iTunes, Nieman's Journalism Lab, Mas
 
 [Meet the Guru Behind Fresh Air’s Web Success](http://www.current.org/2012/04/meet-the-guru-behind-fresh-airs-web-success/) Current.org. April 2012.
 
-[Meet the Most Popular Woman at NPR’s Fresh Air (And It’s Not Terry Gross](http://www.niemanlab.org/2012/04/meet-the-most-popular-woman-at-nprs-fresh-air-and-its-not-terry-gross/) Andrew Phelps. Nieman Journalism Lab. April 2012.
+[Meet the Most Popular Woman at NPR’s Fresh Air (And It’s Not Terry Gross)](http://www.niemanlab.org/2012/04/meet-the-most-popular-woman-at-nprs-fresh-air-and-its-not-terry-gross/) Andrew Phelps. Nieman Journalism Lab. April 2012.
 
 [73 and Loaded with Friends on Facebook](http://www.nytimes.com/2007/10/14/fashion/14facebook.html?pagewanted=all&_r=0). John Schwartz. The New York Times. October 2007.
 
