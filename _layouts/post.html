@@ -1,0 +1,44 @@
+---
+layout: default
+notes: active
+home: passive
+cv: passive
+post: active
+projects: passive
+notes: passive
+contact: passive
+description: Current CV for Melody Kramer.
+---
+
+<div class="notes">
+		<div class="note single">
+			<br>
+			<br>
+			<h1 class="title">{{ page.title }}</h1>
+
+			<h2 class="date"><info datetime="{{ page.date }}">
+				{{ page.date | date_to_string }} {% if page.author %} by {{ page.author }} {% endif %}
+			</info></h2>
+			<!-- Post content -->
+			<br>
+			<br>
+			<br>
+			<div class="notebody">
+				{{ content }}
+			</div>
+			<!-- Post info -->
+			<div class="noteinfo">
+			<!-- include some categories and tags maybe? -->
+			</div>
+
+			<hr>
+  <a href="https://github.com/melodykramer/melodykramer.github.io/issues/new">Leave a comment</a><br />
+  <a href="https://github.com/melodykramer/melodykramer.github.io/edit/master/{{ page.path }}">Fix my
+typos</a>
+<br>
+<br>
+<br>
+
+
+		</div><!-- / .note .single -->
+</div><!-- /.notes -->

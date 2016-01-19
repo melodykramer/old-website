@@ -1,0 +1,29 @@
+
+# Site settings
+title: Melody Kramer
+email: melodykramer@gmail.com
+description: "Thinking and learning in public."
+baseurl: ""
+url: "https://melodykramer.github.io"
+timezone: "America/New_York"
+
+# Build settings
+markdown: kramdown
+
+# social
+twitter: mkramer
+github: melodykramer
+
+
+defaults:
+  -
+    scope:
+      type: posts
+    values:
+      layout: post
+exclude:
+- deploy
+- Gemfile
+- Gemfile.lock
+
+permalink: /:year/:month/:day/:title
