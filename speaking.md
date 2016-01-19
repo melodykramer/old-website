@@ -16,7 +16,7 @@ description: Speaking engagements.
 <br>
 
 
-I love giving talks about working in public, building stronger connections with their audiences, and building tools that strengthen relationships with an audience. I routinely talk to college students and have guest-lectured at the Columbia University School of Journalism, the University of Maryland, Drexel University, Northwestern University, Princeton University, Harvard University, the University of North Carolina, Ohio State, the University of Florida, Georgetown University, and the University of Pennsylvania.
+I love giving talks about working in public, building stronger connections with audiences, and building tools that strengthen relationships with an audience. I routinely talk to college students and have guest-lectured at the Columbia University School of Journalism, the University of Maryland, Drexel University, Northwestern University, Princeton University, Harvard University, the University of North Carolina, Ohio State, the University of Florida, Georgetown University, and the University of Pennsylvania.
 
 
 I also routinely speak at conferences and on panels about various topics in journalism and civic technology. Below are recent talks I've given, along with videos and transcripts, when they're available. If you'd like to have me speak or run a workshop, please [contact me](mailto:melodykramer@gmail.com).
