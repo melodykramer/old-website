@@ -23,13 +23,14 @@ I frequently works on side projects or short-term engagements within the public 
 - critique grant proposals and/or help assess grant proposals
 
 
-Previous clients include a variety of public media organizations, podcasts, authors, non-profits, and trade publications. I'm happy to put you in touch, if you'd like. Some highlights:
+Previous clients include a variety of public media organizations, podcasts, authors, non-profits, and trade publications. I'm happy to put you in touch with previous clients, if you'd like. Some highlights:
 
 - I organized and then led a online campaign to raise over 30,000$ for the Matthew Shepard Foundation over the course of one week.
 
 - I helped Fresh Air with Terry Gross reimagine their archives as a vehicle to further audience participation.
 
 - I reworked the social media strategy for a New York Times bestselling author, resulting in substantially more press in the ensuing months.
+
 
 If this interests you, I'm happy to work up a proposal for how we can work together. Please email me: [melodykramer@gmail.com](mailto:melodykramer@gmail.com).
 
