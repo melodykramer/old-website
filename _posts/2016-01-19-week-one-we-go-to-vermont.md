@@ -91,7 +91,7 @@ I tried to do that — though I'm sure I'm missing quite a bit.
 
 1. I also watched [InnoVaTe](http://www.vermontpbs.org/innovate), a show about Vermont tech companies hosted by the former organizer of Reddit's Ask Me Anything.
 
-## Things I learned about the State of Vermont
+## Five unique things I learned about the State of Vermont
 
 1. There are 183 libraries in the state and you can see all of them [on a map](http://www.librarian.net/stax/4209/elbow-grease-and-geocoding-making-a-map-of-vermonts-public-libraries/) that librarian Jessamyn West made.
 
@@ -245,7 +245,7 @@ Also you must, must, must have snow tires. Which is crazy to me. But it’s true
 
 The great thing is that because I work in public media, my job is to serve the community. So as soon as we work out how to best present valuable information, we’re encouraged and empowered to go out and make it happen. I also just realized I turned that whole question around into an example of why public media is great… Sorry (sort of :D)
 
-<h2 id="dave-shaw">Dave Shaw spoke to Lena Gordon, a marketing director at an architecture firm<h2>
+<h2 id="dave-shaw">Dave Shaw spoke to Lena Gordon, a marketing director at an architecture firm</h2>
 
 
 **Who are you and what do you do?**
