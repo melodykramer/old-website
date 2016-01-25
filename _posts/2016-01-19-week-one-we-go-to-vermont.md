@@ -32,23 +32,23 @@ I tried to do that — though I'm sure I'm missing quite a bit.
 
 ## Things I did this week to learn more about the news in Vermont.
 
-1. Asked you to reach out to people you knew in the state of Vermont and ask them a series of questions about how they got their news. A number of you did, including:
+Asked you to reach out to people you knew in the state of Vermont and ask them a series of questions about how they got their news. A number of you did, including:
 
 <ul>
 
-<li><a href="https://medium.com/@mica_tucker/helping-a-friend-with-the-news-like-we-do-in-vermont-c86b48a0416c#.fgc3hblif"><b>Micaela Tucker</b> talked to Tamara and Keith about their news habits.</a></li>
+<li><a href="https://medium.com/@mica_tucker/helping-a-friend-with-the-news-like-we-do-in-vermont-c86b48a0416c#.fgc3hblif"><b>Micaela Tucker</b> talked to Tamara and Keith about their news habits.</a></li><br>
 
-<li><a href="https://medium.com/@storyworthy/how-does-word-travel-in-vermont-41a6b853886a#.yzaep9pys"><b>Becky Michelson</b> talks to Evan, a computer science graduate student from Cornwall, VT</a></li>
+<li><a href="https://medium.com/@storyworthy/how-does-word-travel-in-vermont-41a6b853886a#.yzaep9pys"><b>Becky Michelson</b> talks to Evan, a computer science graduate student from Cornwall, VT</a></li><br>
 
-<li><a href="http://lorigalvin.com/2016/01/14/the-local-pov-vermont/"><b>Lori Galvin</b> talks to Cheryl Redmond, a freelance writer and editor in Brattleboro</a></li>
+<li><a href="http://lorigalvin.com/2016/01/14/the-local-pov-vermont/"><b>Lori Galvin</b> talks to Cheryl Redmond, a freelance writer and editor in Brattleboro</a></li><br>
 
-<li><a href="#ruth-ann-harnisch"><b>Ruth Ann Harnisch</b> talked to her relative Helene, who is a grants director at a small college in Vermont</a></li>
+<li><a href="#ruth-ann-harnisch"><b>Ruth Ann Harnisch</b> talked to her relative Helene, who is a grants director at a small college in Vermont</a></li><br>
 
-<li><a href="#tom-barnes"><b>Tom Barnes</b> interviewed high school English teacher Alison O'Brien</a></li>
+<li><a href="#tom-barnes"><b>Tom Barnes</b> interviewed high school English teacher Alison O'Brien</a></li><br>
 
-<li><a href="#andrew-nelson"><b>Andrew Nelson</b> reaches out to Bennington's funkiest, cool art gallery owner Joey Kuklin</a></li>
+<li><a href="#andrew-nelson"><b>Andrew Nelson</b> reaches out to Bennington's funkiest, cool art gallery owner Joey Kuklin</a></li><br>
 
-<li><a href="#nick-andersen"><b>Nick Andersen</b> talks to Emily Alfin Johnson, a digital producer at Vermont Public Radio</a></li>
+<li><a href="#nick-andersen"><b>Nick Andersen</b> talks to Emily Alfin Johnson, a digital producer at Vermont Public Radio</a></li><br>
 
 <li><a href="#dave-shaw"><b>Dave Shaw</b> spoke to Lena Gordon, a marketing director at an architecture firm</a></li>
 
@@ -142,24 +142,42 @@ My name is Alison O'Brien. I'm a high school English teacher at an independent s
 
 **How do you get your local news?**
 
-My primary news sources are NPR and its affiliates, VPR (Vermont Public Radio out of Windsor) and NHPR (New Hampshire Public Radio out of Keene). I probably turn on VPR in the car once a week, as I'm not in the car much (I live at work) but I also follow their Facebook page and see their updates probably at least twice a day. I also follow straight up NPR on Facebook, but have lately been disappointed by the quality of the posts showing up on my newsfeed (fluff pieces). I also follow Bernie Sanders for election updates and Al Jazeera for my daily dose of global news. In terms of non-internet local news, my boyfriend is a huge fan of "The Shopper," which is one of those tiny local newspapers you see as you're walking out the door of the gas station. We usually only pick it up when he or his coworkers are featured in a story, which is actually kind of often (so proud!!). I also follow two Facebook pages associated with the little town I live in and the village adjacent, both of which include posts about things like lost dogs and whatnot, but also local construction projects, town elections, promotion of local businesses, etc. I guess I get my truly local news primarily from Facebook and, of course, word of mouth. I get a lot of great news from my local bartender, to be honest!
+My primary news sources are NPR and its affiliates, VPR (Vermont Public Radio out of Windsor) and NHPR (New Hampshire Public Radio out of Keene). I probably turn on VPR in the car once a week, as I'm not in the car much (I live at work) but I also follow their Facebook page and see their updates probably at least twice a day. 
+
+I also follow straight up NPR on Facebook, but have lately been disappointed by the quality of the posts showing up on my newsfeed (fluff pieces). I also follow Bernie Sanders for election updates and Al Jazeera for my daily dose of global news. In terms of non-internet local news, my boyfriend is a huge fan of "The Shopper," which is one of those tiny local newspapers you see as you're walking out the door of the gas station. We usually only pick it up when he or his coworkers are featured in a story, which is actually kind of often (so proud!!). 
+
+I also follow two Facebook pages associated with the little town I live in and the village adjacent, both of which include posts about things like lost dogs and whatnot, but also local construction projects, town elections, promotion of local businesses, etc. I guess I get my truly local news primarily from Facebook and, of course, word of mouth. I get a lot of great news from my local bartender, to be honest!
 
 **A significant percentage of people in Vermont don’t have high speed internet. If you don’t have high speed internet or know someone who doesn’t, how do you/they get their news?**
 
-I am very lucky to have VTel fiber internet, which is faster than any internet I've ever had at home! It'd pretty remarkable that we have access to such excellent internet in my little village when we have almost no access to cell service. I know that many Vermonters do not have this luxury, especially in the Northeast Kingdom, and it's a significant obstacle in these people's access to both local and national news. TV is something I think the majority of Vermonters will still have access to, and I'm sure many rely almost solely on TV news programs for their news (which is problematic for a variety of reasons). I know that, even in my area, people also still rely heavily on newspapers, newsletters, magazines, and good ol' posters on telephone poles and flyers stapled to cork boards outside the local market. I love that I live in a place where people actually take notice of that kind of media, and where a person might stop and genuinely check out a flyer or attend an event they know little about because they heard about it from their mailman or from some guy at the pub. I think that there could be serious improvement in communication and awareness of larger news stories occurring outside of our little bubbles, but we find a way to continue to build our small communities through the means we possess.
+I am very lucky to have VTel fiber internet, which is faster than any internet I've ever had at home! It'd pretty remarkable that we have access to such excellent internet in my little village when we have almost no access to cell service. I know that many Vermonters do not have this luxury, especially in the Northeast Kingdom, and it's a significant obstacle in these people's access to both local and national news. 
+
+TV is something I think the majority of Vermonters will still have access to, and I'm sure many rely almost solely on TV news programs for their news (which is problematic for a variety of reasons). I know that, even in my area, people also still rely heavily on newspapers, newsletters, magazines, and good ol' posters on telephone poles and flyers stapled to cork boards outside the local market. 
+
+I love that I live in a place where people actually take notice of that kind of media, and where a person might stop and genuinely check out a flyer or attend an event they know little about because they heard about it from their mailman or from some guy at the pub. I think that there could be serious improvement in communication and awareness of larger news stories occurring outside of our little bubbles, but we find a way to continue to build our small communities through the means we possess.
 
 **What story are you following locally that more people should know about?**
 
 
-I do my best to follow local news stories through friends and neighbors as well as through VPR. On the very local level, I've been following the proposed plan to build a $23 million "Criminal Justice Center" in an old mill in Bellows Falls, and am hoping to hear more information on that project soon, as it could have an enormous impact on my community if it is approved. On a larger, Vermont-wide scale, I think our biggest problem that needs much more attention is the growing rate of drug abuse in our state. Peter Shumlin and other lawmakers have done a good job of giving our state's opiate problem more visibility, but heroin continues pouring into the state at shocking rates. I live right off of Rt-91 and next to Bellows Falls, a town well-known for heroin trafficking and abuse. The town and the state are both working extremely hard to provide more supports and addiction services; in fact, my boyfriend, Will Fritch, works for the Department of Health and is on the advisory board of our local prevention coalition called Greater Falls Connections. Unfortunately, he has his work cut out for him as the prevalence of addiction and the accessibility of hard drugs in our district are truly alarming. Our population is small but our wellness issues are enormous, and are demonstrative of a state-wide crisis in drug and alcohol abuse.
+I do my best to follow local news stories through friends and neighbors as well as through VPR. On the very local level, I've been following the proposed plan to build a $23 million "Criminal Justice Center" in an old mill in Bellows Falls, and am hoping to hear more information on that project soon, as it could have an enormous impact on my community if it is approved. 
+
+On a larger, Vermont-wide scale, I think our biggest problem that needs much more attention is the growing rate of drug abuse in our state. Peter Shumlin and other lawmakers have done a good job of giving our state's opiate problem more visibility, but heroin continues pouring into the state at shocking rates. I live right off of Rt-91 and next to Bellows Falls, a town well-known for heroin trafficking and abuse. 
+
+The town and the state are both working extremely hard to provide more supports and addiction services; in fact, my boyfriend, Will Fritch, works for the Department of Health and is on the advisory board of our local prevention coalition called Greater Falls Connections. Unfortunately, he has his work cut out for him as the prevalence of addiction and the accessibility of hard drugs in our district are truly alarming. Our population is small but our wellness issues are enormous, and are demonstrative of a state-wide crisis in drug and alcohol abuse.
 
 **What’s the best thing about living in Vermont?**
 
-On a much lighter note!! There are a million reasons to live in Vermont. I moved here almost two years ago, to "the middle of nowhere," and although relocating to Vermont had its unique adjustments, I adore living here. First of all, it's beautiful. That may be the single best thing about living in Vermont. I'm a skier, hiker, swimmer, and general outdoor explorer, so of course I enjoy the natural beauty of the forests, mountains, farms, and rivers of the Green Mountain State. I think, aside from that, the best part about Vermont is the people. Vermont seems to attract a certain type of person, whether you were born here or moved here in adulthood, that makes for a wonderfully kind, open, and tight-knit community of Vermonters. It's not that every stereotype about Vermont is true (we're not just a bunch of pot smoking farmers in flannel with Phish playing softly in the background...although they certainly exist). My experience has been that the vast majority of people in Vermont are friendly to their neighbors, devote themselves wholeheartedly to the work they do, and are proud to represent our state. Also, Vermonters make damn good beer.
+On a much lighter note!! There are a million reasons to live in Vermont. I moved here almost two years ago, to "the middle of nowhere," and although relocating to Vermont had its unique adjustments, I adore living here. First of all, it's beautiful. That may be the single best thing about living in Vermont. I'm a skier, hiker, swimmer, and general outdoor explorer, so of course I enjoy the natural beauty of the forests, mountains, farms, and rivers of the Green Mountain State. 
+
+I think, aside from that, the best part about Vermont is the people. Vermont seems to attract a certain type of person, whether you were born here or moved here in adulthood, that makes for a wonderfully kind, open, and tight-knit community of Vermonters. It's not that every stereotype about Vermont is true (we're not just a bunch of pot smoking farmers in flannel with Phish playing softly in the background...although they certainly exist).
+
+My experience has been that the vast majority of people in Vermont are friendly to their neighbors, devote themselves wholeheartedly to the work they do, and are proud to represent our state. Also, Vermonters make damn good beer.
 
 **What's the worst thing about the news?**
 
-The worst thing about the news is when it's painfully obvious that a news source is promoting a manipulated, twisted story as "the truth." It's very difficult, if not impossible, to find news stories with little to no bias, whatever their vested interest might be. Pandering to viewership and spinning stories have rendered TV news sources completely useless. I would not even consider watching TV news, local or national. The worst thing about the news is that you need to be on such high alert for bullshit; every day I'm reading through the news with a cynical eye, assuming that most news sources have some hidden agenda I need to watch out for. Maybe I'm paranoid, but I feel I need to interrogate my news sources before I can believe a word they say. I've certainly found news sources I do feel I can trust, for the most part, and I've listed them above. I don't think I'm at all alone in my suspicion of news media, but I think I'm sadly in the minority, as so many Americans blindly accept the news, any news, as "the truth."
+The worst thing about the news is when it's painfully obvious that a news source is promoting a manipulated, twisted story as "the truth." It's very difficult, if not impossible, to find news stories with little to no bias, whatever their vested interest might be. Pandering to viewership and spinning stories have rendered TV news sources completely useless. I would not even consider watching TV news, local or national. 
+
+The worst thing about the news is that you need to be on such high alert for bullshit; every day I'm reading through the news with a cynical eye, assuming that most news sources have some hidden agenda I need to watch out for. Maybe I'm paranoid, but I feel I need to interrogate my news sources before I can believe a word they say. I've certainly found news sources I do feel I can trust, for the most part, and I've listed them above. I don't think I'm at all alone in my suspicion of news media, but I think I'm sadly in the minority, as so many Americans blindly accept the news, any news, as "the truth."
 
 <h2 id="andrew-nelson">Andrew Nelson reaches out to Bennington's funkiest, cool art gallery owner Joey Kuklin</h2>
 
