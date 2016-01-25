@@ -24,7 +24,7 @@ This is the first of 52 installments in which we transport ourselves somewhere a
 
 1. 120,000 people subscribe to an online community called the [Front Porch Forum.](http://digital.vpr.net/post/front-porch-forum-pleased-breaking-even-has-no-out-state-plans#stream/0) which [operates statewide](http://www.npr.org/sections/alltechconsidered/2015/03/07/391269248/in-vermont-a-hyper-local-online-forum-brings-neighbors-together).
 
-1. People love Vermont enough to write a theme song](http://music.metafilter.com/6796/251-Towns) about its 251 towns.
+1. People love Vermont enough to [write a theme song](http://music.metafilter.com/6796/251-Towns) about its 251 towns.
 
 1. One out of six people in Vermont receive SNAP benefits. 40 percent of school children in Vermont are eligible for free lunches. The poverty rate in Vermont is the highest its been in 20 years. [source](http://www.burlingtonfreepress.com/story/money/2014/05/22/poverty-rate-tells-another-story-vermonts-economy/9381625/)
 
