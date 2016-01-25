@@ -11,8 +11,6 @@ Hello,
 
 This is the first of 52 installments in which we transport ourselves somewhere across the world and try to experience that place through their news. We're starting in Vermont.
 
-![Vermont](https://upload.wikimedia.org/wikipedia/commons/2/21/1827_Finley_Map_of_Vermont_-_Geographicus_-_Vermont-finely-1827.jpg)
-
 
 ## Why Vermont?
 
