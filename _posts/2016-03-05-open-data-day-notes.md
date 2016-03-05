@@ -64,9 +64,13 @@ Where can you start? We're thinking about this a lot - you can read [what we're 
 ## How to be open?
 
 Not just code.
+
 Ask for specific help.
+
 Tag your issues well.
+
 Thank your helpers.
+
 Improve documentation.
 
 ## Join 18F
@@ -80,6 +84,7 @@ We’ve worked hard to provide the infrastructure and support for our team to [l
 - making your projects more open
 - inviting the public in
 - how you can join 18F 
+- building an inclusive workplace
 - the best food in Philadelphia (native)
 - public media stuff
 
