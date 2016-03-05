@@ -5,7 +5,7 @@ Hello Triangle Open Data Day! [Here are my slides.](https://github.com/melodykra
 
 I'm [Mel](http://melodykramer.github.io/). I recently moved from DC to Carrboro. I’m new here and would like to meet more people in the civic tech community. 
 
-I spent most of [my career](http://melodykramer.github.io/cv/) in public media working at Wait Wait Don’t Tell Me, Fresh Air with Terry Gross, and NPR. I worked at the intersection of product and editorial and I loved it.
+I spent most of [my career](http://melodykramer.github.io/cv/) in public media working at Wait Wait Don’t Tell Me, Fresh Air with Terry Gross, and NPR. I worked at the intersection of product and editorial and I loved it. (I also love thinking about [how civic tech and public media can work together](http://www.niemanlab.org/2015/07/putting-the-public-into-public-media-membership/#melkramer-code)....)
 
 I left public media last year to serve a two-year term appointment at [18F](https://18f.gsa.gov/).
 
