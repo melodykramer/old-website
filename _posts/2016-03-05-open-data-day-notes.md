@@ -85,8 +85,11 @@ We’ve worked hard to provide the infrastructure and support for our team to [l
 ## 18F Links
 
 To see open positions, visit https://join.18f.gov
+
 To read about the work we do, read our blog: https://18f.gsa.gov/blog/
+
 To contribute an idea or code: https://github.com/18f
+
 Twitter: @18F
 
 
