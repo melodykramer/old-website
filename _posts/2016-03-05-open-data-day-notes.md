@@ -85,9 +85,11 @@ We’ve worked hard to provide the infrastructure and support for our team to [l
 - inviting the public in
 - how you can join 18F 
 - building an inclusive workplace
+- [onboarding](https://18f.gsa.gov/2015/12/01/how-we-dramatically-improved-18fs-onboarding-process-in-3-months/) and creating cultural change _with_ people
 - the best food in Philadelphia (native)
-- public media stuff
+- public media + civic tech stuff
 
+I love thinking about ways that civic tech can partner with public media stations and libraries. I wrote [an entire research report](http://www.niemanlab.org/2015/07/putting-the-public-into-public-media-membership/) about this on a fellowship at Harvard last spring. 
 
 ## 18F Links
 
