@@ -3,9 +3,9 @@
 
 Hello Triangle Open Data Day! [Here are my slides.](https://github.com/melodykramer/melodykramer.github.io/blob/master/Copy.of.18F.General.Slides.-.Mel.pdf)
 
-I'm [Mel](http://melodykramer.github.io/). I recently moved from DC to Carrboro. I’m new here and would like to meet more people in the civic tech community. 
+I'm [Mel](https://melodykramer.github.io/). I recently moved from DC to Carrboro. I’m new here and would like to meet more people in the civic tech community. 
 
-I spent most of [my career](http://melodykramer.github.io/cv/) in public media working at Wait Wait Don’t Tell Me, Fresh Air with Terry Gross, and NPR. I worked at the intersection of product and editorial and I loved it. (I also love thinking about [how civic tech and public media can work together](http://www.niemanlab.org/2015/07/putting-the-public-into-public-media-membership/#melkramer-code)....)
+I spent most of [my career](https://melodykramer.github.io/cv/) in public media working at Wait Wait Don’t Tell Me, Fresh Air with Terry Gross, and NPR. I worked at the intersection of product and editorial and I loved it. (I also love thinking about [how civic tech and public media can work together](http://www.niemanlab.org/2015/07/putting-the-public-into-public-media-membership/#melkramer-code)....)
 
 I left public media last year to serve a two-year term appointment at [18F](https://18f.gsa.gov/).
 
@@ -93,15 +93,10 @@ I love thinking about ways that civic tech can partner with public media station
 
 ## 18F Links
 
-To see open positions, visit https://join.18f.gov
+To see open positions, visit [join.18f.gov](https://join.18f.gov)
 
-To read about the work we do, read our blog: https://18f.gsa.gov/blog/
+To read about the work we do, read our blog: [18f.gsa.gov/blog/](https://18f.gsa.gov/blog/)
 
-To contribute an idea or code: https://github.com/18f
+To contribute an idea or code: [github.com/18f](https://github.com/18f)
 
-Twitter: @18F
-
-
-
-
-
+Twitter: [@18F](https://twitter.com/18F)
