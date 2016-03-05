@@ -27,7 +27,7 @@ We work openly. All of our work is [on GitHub](https://github.com/18F). We have 
 
 ## Projects 
 
-I thought I would show you three of our projects that help connect people with data really well.
+I thought I would show you four of our projects that help connect people with data really well.
 
 The first is [College Scorecard](https://collegescorecard.ed.gov/) which was a joint project with the Department of Education. We received direct input from students, families, and their advisers to provide the clearest, most accessible, and reliable national data on college cost, graduation, debt, and post-college earnings. This new College Scorecard allows people to: rate colleges based on what matters most to them, highlight colleges that are serving students of all backgrounds well, and to focus on making a quality, affordable education within reach.
 
@@ -36,6 +36,8 @@ The second is [beta.FEC.gov](https://beta.fec.gov/). We’re helping the Federal
 When not partnering directly with agencies, we’re building tools that support them. We helped build a [public analytics dashboard](https://analytics.usa.gov/) for US government web traffic, and for the first time, you can see how many people are using a government website, which pages are most popular, and which devices, browsers, and operating systems people are using. Since it’s tax season, it’s no surprise those pages have the most traffic. Weather.gov and NASA also frequent the Top 10.
 
 And what’s awesome is that all of this code is open. So the city of Philly forked the code and made their [own analytics dashboard](http://analytics.phila.gov/)! So did the city of Boulder and parts of Tennesssee’s state government. Any city or state can do this. (You can [read about it here](https://18f.gsa.gov/2016/01/06/tips-for-adapting-analytics-usa-gov/).)
+
+And we're experimenting [with paying people](https://micropurchase.18f.gov/) who bid to contribute to our open source projects. 
 
 ## Working openly
 
