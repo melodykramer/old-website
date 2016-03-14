@@ -16,7 +16,7 @@ description: Speaking engagements.
 <br>
 <br>
 
-I've written for many places, including Esquire Magazine, National Geographic Magazine, NPR, and The New York Times and filed audio stories that have aired on public radio stations across the country. I currently write a [weekly column for Poynter](http://www.poynter.org/author/melody-kramer/) and occasionally contribute to other publications. At various points, I've had the #1 piece on Medium, the #1 piece on Storify, and the #1 piece on Hacker News. I love writing tutorials, how-tos, and explainers that make difficult concepts really easy to understand.
+I've written for many places, including Esquire Magazine, National Geographic Magazine, and NPR and filed audio stories that have aired on public radio stations across the country. I currently write a [weekly column for Poynter](http://www.poynter.org/author/melody-kramer/) and occasionally contribute to other publications. At various points, I've had the [#1 piece](https://medium.com/thelist/64-ways-to-think-about-a-news-homepage-223c01952d26) on Medium, the [#1 piece](https://storify.com/mkramer/how-twitter-tracked-down-the-suspects-from-a-ppd-v) on Storify, and the [#1 piece](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/) on Hacker News. I love writing tutorials, how-tos, and explainers that make difficult concepts really easy to understand.
 
 My [newsletter](http://www.tinyletter.com/melodykramer) prompts thousands of people to make creative things together.
 
