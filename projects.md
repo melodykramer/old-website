@@ -14,25 +14,34 @@ contact: passive
 <br>
 <br>
 
-I frequently work on side projects or short-term engagements within the public media, podcasting, and civic technology space. Things I do:
+Some of the tools and projects that I've worked on over the past 10 years. <br><br>
 
-- develop or improve audience engagement or existing social media strategies
-- make content consistent, structured, and easier to understand.
-- analyze existing analytics data and make recommendations for site and/or content improvements
-- help organizations ideate and develop new ways to reach audiences
-- critique grant proposals and/or help assess grant proposals
+<b>Media Public</b>: I founded and now lead an [open source project](https://github.com/mediapublic/mediapublic) to better connect public radio stations with each other and the public. You can follow progress through [our newsletter](www.tinyletter.com/mediapublic).
 
+<br><br>
 
-Previous clients include a variety of public media organizations, podcasts, authors, non-profits, and trade publications. I'm happy to put you in touch with previous clients, if you'd like. Some highlights:
+<b>Social Sandbox</b>: I created and then ran a blog for NPR that 
 
-- I organized and then led a online campaign to raise over 30,000$ for the Matthew Shepard Foundation over the course of one week.
+<br><br>
 
-- I helped Fresh Air with Terry Gross reimagine their archives as a vehicle to further audience participation.
+<b>Quotable tool</b>:
 
-- I reworked the social media strategy for a New York Times bestselling author, resulting in substantially more press in the ensuing months.
+<br><br>
 
+<b>Dolores Landingham</b>:
 
-If this interests you, I'm happy to work up a proposal for how we can work together. Please email me: [melodykramer@gmail.com](mailto:melodykramer@gmail.com).
+<br><br>
 
+<b>Fresh Air archive work</b>:
 
-A quick note: I routinely volunteer for organizations but am not taking on any additional pro bono clients right now. If you want me to critique a quick idea or pick my brain, I'm happy to answer your questions [via Twitter](https://twitter.com/mkramer).
+<br><br>
+
+<b>Checklistomania</b>:
+
+<br><br>
+
+<b>Fresh Air digital properties</b>:
+
+<br><br>
+
+<b>
