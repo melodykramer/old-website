@@ -25,6 +25,7 @@ I also routinely speak at conferences and on panels about various topics in jour
 <br>
 <br>
 
+[Building Open Source Tools and Working in the Open.](http://melodykramer.github.io/2016/03/05/open-data-day-notes) Triangle Open Data Day. March 2016. 
 
 Building in the Open with 18F. Digital Services Team, State of North Carolina. December 2015.
 
