@@ -9,9 +9,10 @@ notes: passive
 contact: passive
 ---
 
+
 Some of the tools and projects that I've worked on or helped build over the past 10 years. <br><br>
 
-<b>Media Public</b>: I founded and now lead an [open source project](https://github.com/mediapublic/mediapublic) to better connect public radio stations with each other and the public. You can follow progress through [our newsletter](www.tinyletter.com/mediapublic).
+<b>Media Public</b>: I founded and now lead an [open source project](https://github.com/mediapublic/mediapublic) to better connect public radio stations with each other and the public. You can follow progress through [our newsletter](www.tinyletter.com/mediapublic). The project recently received a Knight Prototype Grant. I manage our budget, prioritize our backlog, lead our tiny staff, and conduct all social and outreach efforts.
 
 <br>
 
@@ -44,5 +45,6 @@ Some of the tools and projects that I've worked on or helped build over the past
 This was a deadline-driven, fast-paced job. I often had to juggle four segments, each with their own Internet presence — not to mention thinking about future segments and our social media accounts. The effort paid off: the show became the most popular public media show on social media, and traffic to its web presence grew at a much faster rate than NPR's other offerings. Nieman Lab [profiled my efforts](http://www.niemanlab.org/2012/04/meet-the-most-popular-woman-at-nprs-fresh-air-and-its-not-terry-gross/), and the show received recognition from iTunes (Podcast of the Year), as well as the Shorty Awards, the Philadelphia Geek Awards, the Village Voice Web Awards, Mashable, and MediaBistro.
 
 <br>
+
 
 
