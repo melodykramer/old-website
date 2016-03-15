@@ -9,11 +9,6 @@ notes: passive
 contact: passive
 ---
 
-<br>
-<br>
-<br>
-<br>
-
 Some of the tools and projects that I've worked on or helped build over the past 10 years. <br><br>
 
 <b>Media Public</b>: I founded and now lead an [open source project](https://github.com/mediapublic/mediapublic) to better connect public radio stations with each other and the public. You can follow progress through [our newsletter](www.tinyletter.com/mediapublic).
