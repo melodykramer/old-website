@@ -45,6 +45,6 @@ Some of the tools and projects that I've worked on or helped build over the past
 This was a deadline-driven, fast-paced job. I often had to juggle four segments, each with their own Internet presence — not to mention thinking about future segments and our social media accounts. The effort paid off: the show became the most popular public media show on social media, and traffic to its web presence grew at a much faster rate than NPR's other offerings. Nieman Lab [profiled my efforts](http://www.niemanlab.org/2012/04/meet-the-most-popular-woman-at-nprs-fresh-air-and-its-not-terry-gross/), and the show received recognition from iTunes (Podcast of the Year), as well as the Shorty Awards, the Philadelphia Geek Awards, the Village Voice Web Awards, Mashable, and MediaBistro.
 
 <br>
-
+<b>Wait Wait Don't Tell Me</b>: For a few years, I directed, edited, produced, and wrote for Wait Wait Don't Tell Me. (It was fun.) I also managed the show's social media properties. We were one of the first shows in the country to have a substantial presence on Facebook — through Carl Kassell's page — and received writeups in the Chicago Tribune and the New York Times.
 
 
