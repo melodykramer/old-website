@@ -45,7 +45,7 @@ Some of the tools and projects that I've worked on or helped build over the past
 <br>
 
 <b>Fresh Air digital properties</b>: My job at Fresh Air involved writing the daily minute-long billboards at the top of the radio show, helping write intros for segments, and writing and producing everything seen online: from [headlines](http://www.npr.org/2010/03/24/124052961/south-park-celebrates-14-years-of-fart-jokes) to [text](http://www.npr.org/2011/12/29/144077273/maurice-sendak-on-life-death-and-childrens-lit) to captions to our entire social media presence. 
-<br>
+<br><br>
 This was a deadline-driven, fast-paced job. I often had to juggle four segments, each with their own Internet presence — not to mention thinking about future segments and our social media accounts. The effort paid off: the show became the most popular public media show on social media, and traffic to its web presence grew at a much faster rate than NPR's other offerings. Nieman Lab [profiled my efforts](http://www.niemanlab.org/2012/04/meet-the-most-popular-woman-at-nprs-fresh-air-and-its-not-terry-gross/), and the show received recognition from iTunes (Podcast of the Year), as well as the Shorty Awards, the Philadelphia Geek Awards, the Village Voice Web Awards, Mashable, and MediaBistro.
 
 <br>
