@@ -20,6 +20,12 @@ Some of the tools and projects that I've worked on or helped build over the past
 
 <br>
 
+<b> News for Betty </b> I worked with a developer to build a news website for my then 89-year-old neighbor Betty. The resulting website, [News for Betty](http://newsforbetty.com/), has been applauded by accessibility advocates as well as senior citizens.
+
+<br>
+
+<b>64 ways to think about a homepage</b> I led a [design workshop](https://medium.com/thelist/64-ways-to-think-about-a-news-homepage-223c01952d26) to rethink what a news homepage can be. The resulting ideas were recently cited by Quartz as an inspiration for their redesign.
+
 <b>NPR analytics dashboard</b>: As the product lead and manager, I researched, designed, and then led an internal user-centered research project to create an analytics dashboard for NPR's newsroom, I [wrote about the process](https://source.opennews.org/en-US/learning/building-smart-newsroom-tools/) for Knight-Mozilla Open News' Source.
 
 <br>
