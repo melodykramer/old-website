@@ -24,7 +24,7 @@ My [newsletter](http://www.tinyletter.com/melodykramer) prompts thousands of peo
 
 [The most exciting company in media sells a card game](http://www.niemanlab.org/2015/12/the-most-exciting-company-in-media-sells-a-card-game/)
 
-[How we dramatically improved 18F's onboarding process is 3 months](https://18f.gsa.gov/2015/12/01/how-we-dramatically-improved-18fs-onboarding-process-in-3-months/)
+[How we dramatically improved 18F's onboarding process in 3 months](https://18f.gsa.gov/2015/12/01/how-we-dramatically-improved-18fs-onboarding-process-in-3-months/)
 
 [Putting the public in public media membership](http://www.niemanlab.org/2015/07/putting-the-public-into-public-media-membership/)
 
