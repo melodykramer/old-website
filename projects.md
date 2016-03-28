@@ -12,7 +12,7 @@ contact: passive
 
 Some of the tools and projects that I've worked on or helped build over the past 10 years. <br><br>
 
-<b>Media Public</b>: I founded and now lead an [open source project](https://github.com/mediapublic/mediapublic) to better connect public radio stations with each other and the public. You can follow progress through [our newsletter](www.tinyletter.com/mediapublic). The project recently received a Knight Prototype Grant. I manage our budget, prioritize our backlog, lead our tiny staff, and conduct all social and outreach efforts.
+<b>Media Public</b>: I founded and now lead an [open source project](https://github.com/mediapublic/mediapublic) to better connect public radio stations with each other and the public. You can follow progress through [our newsletter](http://www.tinyletter.com/mediapublic). The project recently received a Knight Prototype Grant. I manage our budget, prioritize our backlog, lead our tiny staff, and conduct all social and outreach efforts.
 
 <br>
 
