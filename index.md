@@ -1,11 +1,6 @@
 ---
 layout: default
 title: Melody Kramer
-cv: passive
-notes: passive
-contact: passive
-writing: passive
-speaking: passive
 description:
 ---
 
